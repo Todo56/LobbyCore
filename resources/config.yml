@@ -1,0 +1,11 @@
+hotbar:
+  fly-item:
+    name: §aFly
+    item-id: 288
+    slot: 2
+    form:
+      title: Flying
+      enable-button: §2Enable
+      disable-button: §4Disable
+      enable-message: Flying has been enabled.
+      disable-message: Flying has been disabled.
